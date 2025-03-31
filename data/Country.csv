@@ -1,0 +1,240 @@
+Country Code;Country;Region;Region_text;Income Group;Lending category;Other groups;GeoAreaName;Grouping;Continent;World;Country Code (clusters) 3;Country (groups);Country Code (clusters);Country  (clusters)
+AFG;Afghanistan;South Asia;Asia;Low income;IDA;HIPC;Afghanistan;Individual;Asia;Earth;;Other;;
+ALB;Albania;Europe & Central Asia;Europe;Upper middle income;IBRD;;Albania;Individual;Europe;Earth;1;Other;Cluster2;Cluster3
+DZA;Algeria;Middle East & North Africa;Africa;Lower middle income;IBRD;;Algeria;Individual;Africa;Earth;;Other;;
+AND;Andorra;Europe & Central Asia;Europe;High income;;;Andorra;Individual;Europe;Earth;;Other;;
+AGO;Angola;Sub-Saharan Africa;Africa;Lower middle income;IBRD;;Angola;Individual;Africa;Earth;;Other;;
+ATG;Antigua and Barbuda;Latin America & Caribbean;North America;High income;IBRD;;Antigua and Barbuda;Individual;North America;Earth;;Other;;
+ARB;Arab World;;;;;;;Grouping;;;;Other;;
+ARG;Argentina;Latin America & Caribbean;South America;Upper middle income;IBRD;;Argentina;Individual;South America;Earth;1;Other;Cluster6;Cluster7
+ARM;Armenia;Europe & Central Asia;Asia;Upper middle income;IBRD;;Aruba;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+AUS;Australia;East Asia & Pacific;Oceania;High income;;;Australia;Individual;Oceania;Earth;3;Other;Cluster7;Cluster6
+AUT;Austria;Europe & Central Asia;Europe;High income;;Euro area;Austria;Individual;Europe;Earth;3;Other;Cluster5;Cluster6
+AZE;Azerbaijan;Europe & Central Asia;Asia;Upper middle income;IBRD;;Azerbaijan;Individual;Asia;Earth;1;Other;Cluster6;Cluster7
+BHR;Bahrain;Middle East & North Africa;Asia;High income;;;Bahrain;Individual;Asia;Earth;3;Other;Cluster7;Cluster6
+BGD;Bangladesh;South Asia;Asia;Lower middle income;IDA;;Bangladesh;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+BRB;Barbados;Latin America & Caribbean;North America;High income;;;Barbados;Individual;North America;Earth;;Other;;
+BLR;Belarus;Europe & Central Asia;Europe;Upper middle income;IBRD;;Belarus;Individual;Europe;Earth;2;Other;Cluster6;Cluster7
+BEL;Belgium;Europe & Central Asia;Europe;High income;;Euro area;Belgium;Individual;Europe;Earth;3;Other;Cluster7;Cluster6
+BLZ;Belize;Latin America & Caribbean;North America;Lower middle income;IBRD;;Belize;Individual;North America;Earth;;Other;;
+BEN;Benin;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Benin;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+BTN;Bhutan;South Asia;Asia;Lower middle income;IDA;;Bhutan;Individual;Asia;Earth;;Other;;
+BOL;Bolivia;Latin America & Caribbean;South America;Lower middle income;IBRD;HIPC;Bolivia (Plurinational State of);Individual;South America;Earth;1;Other;Cluster2;Cluster3
+BIH;Bosnia and Herzegovina;Europe & Central Asia;Europe;Upper middle income;IBRD;;Bosnia and Herzegovina;Individual;Europe;Earth;;Other;;
+BWA;Botswana;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;Botswana;Individual;Africa;Earth;2;Other;Cluster6;Cluster7
+BRA;Brazil;Latin America & Caribbean;South America;Upper middle income;IBRD;;Brazil;Individual;South America;Earth;1;Other;Cluster2;Cluster3
+BRN;Brunei;East Asia & Pacific;Asia;High income;;;Brunei Darussalam;Individual;Asia;Earth;4;Other;Cluster8;Cluster4
+BGR;Bulgaria;Europe & Central Asia;Europe;Upper middle income;IBRD;;Bulgaria;Individual;Europe;Earth;2;Other;Cluster6;Cluster7
+BFA;Burkina Faso;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Burkina Faso;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+BDI;Burundi;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Burundi;Individual;Africa;Earth;;Other;;
+CPV;Cabo Verde;Sub-Saharan Africa;Africa;Lower middle income;Blend;;Cabo Verde;Individual;Africa;Earth;;Other;;
+KHM;Cambodia;East Asia & Pacific;Asia;Lower middle income;IDA;;Cambodia;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+CMR;Cameroon;Sub-Saharan Africa;Africa;Lower middle income;Blend;HIPC;Cameroon;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+CAN;Canada;North America;North America;High income;;;Canada;Individual;North America;Earth;3;Other;Cluster7;Cluster6
+CSS;Caribbean small states;;;;;;;Grouping;;;;Other;;
+CAF;Central African Republic;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Central African Republic;Individual;Africa;Earth;;Other;;
+CEB;Central Europe and the Baltics;;;;;;;Grouping;;;;Other;;
+TCD;Chad;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Chad;Individual;Africa;Earth;;Other;;
+CHL;Chile;Latin America & Caribbean;South America;High income;IBRD;;Chile;Individual;South America;Earth;2;Other;Cluster6;Cluster7
+CHN;China;East Asia & Pacific;Asia;Upper middle income;IBRD;;China;Individual;Asia;Earth;1;Other;Cluster3;Cluster2
+COL;Colombia;Latin America & Caribbean;South America;Upper middle income;IBRD;;Colombia;Individual;South America;Earth;1;Other;Cluster2;Cluster3
+COM;Comoros;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Comoros;Individual;Africa;Earth;;Other;;
+COG;Congo;Sub-Saharan Africa;Africa;Lower middle income;Blend;HIPC;Congo;Individual;Africa;Earth;;Other;;
+CRI;Costa Rica;Latin America & Caribbean;North America;Upper middle income;IBRD;;Costa Rica;Individual;North America;Earth;1;Other;Cluster6;Cluster7
+HRV;Croatia;Europe & Central Asia;Europe;High income;IBRD;;Croatia;Individual;Europe;Earth;2;Other;Cluster6;Cluster7
+CUB;Cuba;Latin America & Caribbean;North America;Upper middle income;;;Cuba;Individual;North America;Earth;;Other;;
+CYP;Cyprus;Europe & Central Asia;Asia;High income;;Euro area;Cyprus;Individual;Asia;Earth;2;Other;Cluster9;Cluster1
+CZE;Czech Republic;Europe & Central Asia;Europe;High income;;;Czechia;Individual;Europe;Earth;2;Other;Cluster1;Cluster1
+CIV;Côte d'Ivoire;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Côte d'Ivoire;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+PRK;Dem. People's Rep. Korea;East Asia & Pacific;Asia;Low income;;;Democratic People's Republic of Korea;Individual;Asia;Earth;;Other;;
+COD;Dem. Rep. Congo;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Democratic Republic of the Congo;Individual;Africa;Earth;;Other;;
+DNK;Denmark;Europe & Central Asia;Europe;High income;;;Denmark;Individual;Europe;Earth;3;Other;Cluster5;Cluster6
+DJI;Djibouti;Middle East & North Africa;Africa;Lower middle income;IDA;;Djibouti;Individual;Africa;Earth;;Other;;
+DMA;Dominica;Latin America & Caribbean;North America;Upper middle income;Blend;;Dominica;Individual;North America;Earth;;Other;;
+DOM;Dominican Republic;Latin America & Caribbean;North America;Upper middle income;IBRD;;Dominican Republic;Individual;North America;Earth;1;Other;Cluster2;Cluster7
+EAR;Early-demographic dividend;;;;;;;Grouping;;;;Other;;
+EAS;East Asia & Pacific;;;;;;;Grouping;;;;Other;;
+EAP;East Asia & Pacific (excluding high income);;;;;;;Grouping;;;;Other;;
+TEA;East Asia & Pacific (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+ECU;Ecuador;Latin America & Caribbean;South America;Upper middle income;IBRD;;Ecuador;Individual;South America;Earth;1;Other;Cluster2;Cluster3
+EGY;Egypt;Middle East & North Africa;Africa;Lower middle income;IBRD;;Egypt;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+SLV;El Salvador;Latin America & Caribbean;North America;Lower middle income;IBRD;;El Salvador;Individual;North America;Earth;1;Other;Cluster2;Cluster3
+GNQ;Equatorial Guinea;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;Equatorial Guinea;Individual;Africa;Earth;;Other;;
+ERI;Eritrea;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Eritrea;Individual;Africa;Earth;;Other;;
+EST;Estonia;Europe & Central Asia;Europe;High income;;Euro area;Estonia;Individual;Europe;Earth;2;Other;Cluster1;Cluster1
+SWZ;Eswatini;Sub-Saharan Africa;Africa;Lower middle income;IBRD;;Eswatini;Individual;Africa;Earth;;Other;;
+ETH;Ethiopia;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Ethiopia;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+EMU;Euro area;;;;;;;Grouping;;;;Other;;
+ECS;Europe & Central Asia;;;;;;;Grouping;;;;Other;;
+ECA;Europe & Central Asia (excluding high income);;;;;;;Grouping;;;;Other;;
+TEC;Europe & Central Asia (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+EUU;European Union;;;;;;;Grouping;;;;Other;;
+FJI;Fiji;East Asia & Pacific;Oceania;Upper middle income;Blend;;Fiji;Individual;Oceania;Earth;;Other;;
+FIN;Finland;Europe & Central Asia;Europe;High income;;Euro area;Finland;Individual;Europe;Earth;3;Other;Cluster7;Cluster6
+FCS;Fragile and conflict affected situations;;;;;;;Grouping;;;;Other;;
+FRA;France;Europe & Central Asia;Europe;High income;;Euro area;France;Individual;Europe;Earth;2;France & Ireland;Cluster9;Cluster1
+GAB;Gabon;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;Gabon;Individual;Africa;Earth;;Other;;
+GEO;Georgia;Europe & Central Asia;Asia;Upper middle income;IBRD;;Georgia;Individual;Asia;Earth;1;Other;Cluster2;Cluster7
+DEU;Germany;Europe & Central Asia;Europe;High income;;Euro area;Germany;Individual;Europe;Earth;3;Other;Cluster5;Cluster6
+GHA;Ghana;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Ghana;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+GRC;Greece;Europe & Central Asia;Europe;High income;;Euro area;Greece;Individual;Europe;Earth;2;Other;Cluster9;Cluster7
+GRD;Grenada;Latin America & Caribbean;North America;Upper middle income;Blend;;Grenada;Individual;North America;Earth;;Other;;
+GTM;Guatemala;Latin America & Caribbean;North America;Upper middle income;IBRD;;Guatemala;Individual;North America;Earth;1;Other;Cluster2;Cluster3
+GIN;Guinea;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Guinea;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+GNB;Guinea-Bissau;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Guinea-Bissau;Individual;Africa;Earth;;Other;;
+GUY;Guyana;Latin America & Caribbean;South America;Upper middle income;IDA;HIPC;Guyana;Individual;South America;Earth;;Other;;
+HTI;Haiti;Latin America & Caribbean;North America;Lower middle income;IDA;HIPC;Haiti;Individual;North America;Earth;;Other;;
+HPC;Heavily indebted poor countries (HIPC);;;;;;;Grouping;;;;Other;;
+HIC;High income;;;;;;;Grouping;;;;Other;;
+HND;Honduras;Latin America & Caribbean;North America;Lower middle income;IDA;HIPC;Honduras;Individual;North America;Earth;1;Other;Cluster2;Cluster3
+HUN;Hungary;Europe & Central Asia;Europe;High income;;;Hungary;Individual;Europe;Earth;2;Other;Cluster6;Cluster1
+IBD;IBRD only;;;;;;;Grouping;;;;Other;;
+ISL;Iceland;Europe & Central Asia;Europe;High income;;;Iceland;Individual;Europe;Earth;;Other;;
+IBT;IDA & IBRD total;;;;;;;Grouping;;;;Other;;
+IDB;IDA blend;;;;;;;Grouping;;;;Other;;
+IDX;IDA only;;;;;;;Grouping;;;;Other;;
+IDA;IDA total;;;;;;;Grouping;;;;Other;;
+IND;India;South Asia;Asia;Lower middle income;IBRD;;India;Individual;Asia;Earth;1;Other;Cluster3;Cluster2
+IDN;Indonesia;East Asia & Pacific;Asia;Lower middle income;IBRD;;Indonesia;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+IRN;Iran;Middle East & North Africa;Asia;Lower middle income;IBRD;;Iran (Islamic Republic of);Individual;Asia;Earth;1;Other;Cluster6;Cluster7
+IRQ;Iraq;Middle East & North Africa;Asia;Upper middle income;IBRD;;Iraq;Individual;Asia;Earth;;Other;;
+IRL;Ireland;Europe & Central Asia;Europe;High income;;Euro area;Ireland;Individual;Europe;Earth;3;France & Ireland;Cluster5;Cluster8
+ISR;Israel;Middle East & North Africa;Asia;High income;;;Israel;Individual;Asia;Earth;2;Other;Cluster9;Cluster1
+ITA;Italy;Europe & Central Asia;Europe;High income;;Euro area;Italy;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+JAM;Jamaica;Latin America & Caribbean;North America;Upper middle income;IBRD;;Jamaica;Individual;North America;Earth;1;Other;Cluster6;Cluster3
+JPN;Japan;East Asia & Pacific;Asia;High income;;;Japan;Individual;Asia;Earth;2;Other;Cluster9;Cluster1
+JOR;Jordan;Middle East & North Africa;Asia;Upper middle income;IBRD;;Jordan;Individual;Asia;Earth;1;Other;Cluster6;Cluster3
+KAZ;Kazakhstan;Europe & Central Asia;Asia;Upper middle income;IBRD;;Kazakhstan;Individual;Asia;Earth;2;Other;Cluster1;Cluster1
+KEN;Kenya;Sub-Saharan Africa;Africa;Lower middle income;Blend;;Kenya;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+KIR;Kiribati;East Asia & Pacific;Oceania;Lower middle income;IDA;;Kiribati;Individual;Oceania;Earth;;Other;;
+KOR;Korea;East Asia & Pacific;Asia;High income;;;Kosovo;Individual;Asia;Earth;3;Other;Cluster1;Cluster6
+KWT;Kuwait;Middle East & North Africa;Asia;High income;;;Kuwait;Individual;Asia;Earth;3;Other;Cluster8;Cluster6
+KGZ;Kyrgyz Republic;Europe & Central Asia;Asia;Lower middle income;IDA;HIPC;Kyrgyzstan;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+LAO;Lao PDR;East Asia & Pacific;Asia;Lower middle income;IDA;;Lao People's Democratic Republic;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+LTE;Late-demographic dividend;;;;;;;Grouping;;;;Other;;
+LCN;Latin America & Caribbean;;;;;;;Grouping;;;;Other;;
+LAC;Latin America & Caribbean (excluding high income);;;;;;;Grouping;;;;Other;;
+TLA;Latin America & Caribbean (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+LVA;Latvia;Europe & Central Asia;Europe;High income;;Euro area;Latvia;Individual;Europe;Earth;2;Other;Cluster6;Cluster1
+LDC;Least developed countries: UN classification;;;;;;;Grouping;;;;Other;;
+LBN;Lebanon;Middle East & North Africa;Asia;Upper middle income;IBRD;;Lebanon;Individual;Asia;Earth;;Other;;
+LSO;Lesotho;Sub-Saharan Africa;Africa;Lower middle income;IDA;;Lesotho;Individual;Africa;Earth;;Other;;
+LBR;Liberia;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Liberia;Individual;Africa;Earth;;Other;;
+LBY;Libya;Middle East & North Africa;Africa;Upper middle income;IBRD;;Libya;Individual;Africa;Earth;;Other;;
+LIE;Liechtenstein;Europe & Central Asia;Europe;High income;;;Liechtenstein;Individual;Europe;Earth;;Other;;
+LTU;Lithuania;Europe & Central Asia;Europe;High income;;Euro area;Lithuania;Individual;Europe;Earth;2;Other;Cluster6;Cluster1
+LMY;Low & middle income;;;;;;;Grouping;;;;Other;;
+LIC;Low income;;;;;;;Grouping;;;;Other;;
+LMC;Lower middle income;;;;;;;Grouping;;;;Other;;
+LUX;Luxembourg;Europe & Central Asia;Europe;High income;;Euro area;Luxembourg;Individual;Europe;Earth;4;Other;Cluster4;Cluster4
+MDG;Madagascar;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Madagascar;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+MWI;Malawi;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Malawi;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+MYS;Malaysia;East Asia & Pacific;Asia;Upper middle income;IBRD;;Malaysia;Individual;Asia;Earth;2;Other;Cluster6;Cluster1
+MDV;Maldives;South Asia;Asia;Upper middle income;IDA;;Maldives;Individual;Asia;Earth;;Other;;
+MLI;Mali;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Mali;Individual;Africa;Earth;;Other;;
+MLT;Malta;Middle East & North Africa;Europe;High income;;Euro area;Malta;Individual;Europe;Earth;3;Other;Cluster1;Cluster6
+MHL;Marshall Islands;East Asia & Pacific;Oceania;Upper middle income;IDA;;Marshall Islands;Individual;Oceania;Earth;;Other;;
+MRT;Mauritania;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Mauritania;Individual;Africa;Earth;;Other;;
+MUS;Mauritius;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;Mauritius;Individual;Africa;Earth;2;Other;Cluster6;Cluster7
+MEX;Mexico;Latin America & Caribbean;North America;Upper middle income;IBRD;;Mexico;Individual;North America;Earth;1;Other;Cluster6;Cluster7
+FSM;Micronesia;East Asia & Pacific;Oceania;Lower middle income;IDA;;Micronesia (Federated States of);Individual;Oceania;Earth;;Other;;
+MEA;Middle East & North Africa;;;;;;;Grouping;;;;Other;;
+MNA;Middle East & North Africa (excluding high income);;;;;;;Grouping;;;;Other;;
+TMN;Middle East & North Africa (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+MIC;Middle income;;;;;;;Grouping;;;;Other;;
+MDA;Moldova;Europe & Central Asia;Europe;Upper middle income;IBRD;;Republic of Moldova;Individual;Europe;Earth;;Other;;
+MCO;Monaco;Europe & Central Asia;Europe;High income;;;Monaco;Individual;Europe;Earth;;Other;;
+MNG;Mongolia;East Asia & Pacific;Asia;Lower middle income;IBRD;;Mongolia;Individual;Asia;Earth;5;Other;Cluster6;Cluster5
+MNE;Montenegro;Europe & Central Asia;Europe;Upper middle income;IBRD;;Montenegro;Individual;Europe;Earth;;Other;;
+MAR;Morocco;Middle East & North Africa;Africa;Lower middle income;IBRD;;Morocco;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+MOZ;Mozambique;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Mozambique;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+MMR;Myanmar;East Asia & Pacific;Asia;Lower middle income;IDA;;Myanmar;Individual;Asia;Earth;;Other;;
+NAM;Namibia;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;Namibia;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+NRU;Nauru;East Asia & Pacific;Oceania;High income;IBRD;;Nauru;Individual;Oceania;Earth;;Other;;
+NPL;Nepal;South Asia;Asia;Lower middle income;IDA;;Nepal;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+NLD;Netherlands;Europe & Central Asia;Europe;High income;;Euro area;Netherlands;Individual;Europe;Earth;3;Other;Cluster5;Cluster6
+NZL;New Zealand;East Asia & Pacific;Oceania;High income;;;New Zealand;Individual;Oceania;Earth;2;Other;Cluster9;Cluster1
+NIC;Nicaragua;Latin America & Caribbean;North America;Lower middle income;IDA;HIPC;Nicaragua;Individual;North America;Earth;1;Other;Cluster2;Cluster3
+NER;Niger;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Niger;Individual;Africa;Earth;;Other;;
+NGA;Nigeria;Sub-Saharan Africa;Africa;Lower middle income;Blend;;Nigeria;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+NAC;North America;;;;;;;Grouping;;;;Other;;
+MKD;North Macedonia;Europe & Central Asia;Europe;Upper middle income;IBRD;;North Macedonia;Individual;Europe;Earth;;Other;;
+NOR;Norway;Europe & Central Asia;Europe;High income;;;Norway;Individual;Europe;Earth;3;Other;Cluster5;Cluster8
+OED;OECD members;;;;;;;Grouping;;;;Other;;
+OMN;Oman;Middle East & North Africa;Asia;High income;;;Oman;Individual;Asia;Earth;2;Other;Cluster1;Cluster1
+OSS;Other small states;;;;;;;Grouping;;;;Other;;
+PSS;Pacific island small states;;;;;;;Grouping;;;;Other;;
+PAK;Pakistan;South Asia;Asia;Lower middle income;Blend;;Pakistan;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+PLW;Palau;East Asia & Pacific;Oceania;High income;IBRD;;Palau;Individual;Oceania;Earth;;Other;;
+PAN;Panama;Latin America & Caribbean;North America;Upper middle income;IBRD;;Panama;Individual;North America;Earth;2;Other;Cluster6;Cluster1
+PNG;Papua New Guinea;East Asia & Pacific;Oceania;Lower middle income;Blend;;Papua New Guinea;Individual;Oceania;Earth;;Other;;
+PRY;Paraguay;Latin America & Caribbean;South America;Upper middle income;IBRD;;Paraguay;Individual;South America;Earth;1;Other;Cluster2;Cluster3
+PER;Peru;Latin America & Caribbean;South America;Upper middle income;IBRD;;Peru;Individual;South America;Earth;1;Other;Cluster2;Cluster3
+PHL;Philippines;East Asia & Pacific;Asia;Lower middle income;IBRD;;Philippines;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+POL;Poland;Europe & Central Asia;Europe;High income;IBRD;;Poland;Individual;Europe;Earth;2;Other;Cluster6;Cluster1
+PRT;Portugal;Europe & Central Asia;Europe;High income;;Euro area;Portugal;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+PST;Post-demographic dividend;;;;;;;Grouping;;;;Other;;
+PRE;Pre-demographic dividend;;;;;;;Grouping;;;;Other;;
+QAT;Qatar;Middle East & North Africa;Asia;High income;;;Qatar;Individual;Asia;Earth;4;Other;Cluster4;Cluster4
+ROU;Romania;Europe & Central Asia;Europe;Upper middle income;IBRD;;Romania;Individual;Europe;Earth;2;Other;Cluster6;Cluster7
+RUS;Russia;Europe & Central Asia;Europe;Upper middle income;IBRD;;Russian Federation;Individual;Europe;Earth;2;Other;Cluster1;Cluster1
+RWA;Rwanda;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Rwanda;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+WSM;Samoa;East Asia & Pacific;Oceania;Lower middle income;IDA;;Samoa;Individual;Oceania;Earth;;Other;;
+SMR;San Marino;Europe & Central Asia;Europe;High income;;;San Marino;Individual;Europe;Earth;;Other;;
+SAU;Saudi Arabia;Middle East & North Africa;Asia;High income;;;Saudi Arabia;Individual;Asia;Earth;3;Other;Cluster7;Cluster6
+SEN;Senegal;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Senegal;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+SRB;Serbia;Europe & Central Asia;Europe;Upper middle income;IBRD;;Serbia;Individual;Europe;Earth;;Other;;
+SYC;Seychelles;Sub-Saharan Africa;Africa;High income;IBRD;;Seychelles;Individual;Africa;Earth;;Other;;
+SLE;Sierra Leone;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Sierra Leone;Individual;Africa;Earth;;Other;;
+SGP;Singapore;East Asia & Pacific;Asia;High income;;;Singapore;Individual;Asia;Earth;4;Other;Cluster8;Cluster4
+SVK;Slovak Republic;Europe & Central Asia;Europe;High income;;Euro area;Slovakia;Individual;Europe;Earth;2;Other;Cluster1;Cluster1
+SVN;Slovenia;Europe & Central Asia;Europe;High income;;Euro area;Slovenia;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+SST;Small states;;;;;;;Grouping;;;;Other;;
+SLB;Solomon Islands;East Asia & Pacific;Oceania;Lower middle income;IDA;;Solomon Islands;Individual;Oceania;Earth;;Other;;
+SOM;Somalia;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Somalia;Individual;Africa;Earth;;Other;;
+ZAF;South Africa;Sub-Saharan Africa;Africa;Upper middle income;IBRD;;South Africa;Individual;Africa;Earth;1;Other;Cluster6;Cluster7
+SAS;South Asia;;;;;;;Grouping;;;;Other;;
+TSA;South Asia (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+SSD;South Sudan;Sub-Saharan Africa;Africa;Low income;IDA;;South Sudan;Individual;Africa;Earth;;Other;;
+ESP;Spain;Europe & Central Asia;Europe;High income;;Euro area;Spain;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+LKA;Sri Lanka;South Asia;Asia;Lower middle income;IBRD;;Sri Lanka;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+KNA;St. Kitts and Nevis;Latin America & Caribbean;North America;High income;IBRD;;Saint Kitts and Nevis;Individual;North America;Earth;;Other;;
+LCA;St. Lucia;Latin America & Caribbean;North America;Upper middle income;Blend;;Saint Lucia;Individual;North America;Earth;;Other;;
+VCT;St. Vincent and the Grenadines;Latin America & Caribbean;North America;Upper middle income;Blend;;Saint Vincent and the Grenadines;Individual;North America;Earth;;Other;;
+SSF;Sub-Saharan Africa;;;;;;;Grouping;;;;Other;;
+SSA;Sub-Saharan Africa (excluding high income);;;;;;;Grouping;;;;Other;;
+TSS;Sub-Saharan Africa (IDA & IBRD);;;;;;;Grouping;;;;Other;;
+SDN;Sudan;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Sudan;Individual;Africa;Earth;;Other;;
+SUR;Suriname;Latin America & Caribbean;South America;Upper middle income;IBRD;;Suriname;Individual;South America;Earth;;Other;;
+SWE;Sweden;Europe & Central Asia;Europe;High income;;;Sweden;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+CHE;Switzerland;Europe & Central Asia;Europe;High income;;;Switzerland;Individual;Europe;Earth;3;Other;Cluster5;Cluster8
+SYR;Syrian Arab Republic;Middle East & North Africa;Asia;Low income;IDA;;Syrian Arab Republic;Individual;Asia;Earth;;Other;;
+STP;São Tomé and Principe;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Sao Tome and Principe;Individual;Africa;Earth;;Other;;
+TJK;Tajikistan;Europe & Central Asia;Asia;Lower middle income;IDA;;Tajikistan;Individual;Asia;Earth;;Other;;
+TZA;Tanzania;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;United Republic of Tanzania;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+THA;Thailand;East Asia & Pacific;Asia;Upper middle income;IBRD;;Thailand;Individual;Asia;Earth;1;Other;Cluster6;Cluster7
+BHS;The Bahamas;Latin America & Caribbean;North America;High income;;;Bahamas;Individual;North America;Earth;;Other;;
+GMB;The Gambia;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Gambia;Individual;Africa;Earth;;Other;;
+TLS;Timor-Leste;East Asia & Pacific;Asia;Lower middle income;Blend;;Timor-Leste;Individual;Asia;Earth;;Other;;
+TGO;Togo;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Togo;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+TON;Tonga;East Asia & Pacific;Oceania;Upper middle income;IDA;;Tonga;Individual;Oceania;Earth;;Other;;
+TTO;Trinidad and Tobago;Latin America & Caribbean;North America;High income;IBRD;;Trinidad and Tobago;Individual;North America;Earth;5;Other;Cluster1;Cluster5
+TUN;Tunisia;Middle East & North Africa;Africa;Lower middle income;IBRD;;Tunisia;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+TUR;Turkey;Europe & Central Asia;Asia;Upper middle income;IBRD;;Turkey;Individual;Asia;Earth;2;Other;Cluster6;Cluster7
+TKM;Turkmenistan;Europe & Central Asia;Asia;Upper middle income;IBRD;;Turkmenistan;Individual;Asia;Earth;;Other;;
+TUV;Tuvalu;East Asia & Pacific;Oceania;Upper middle income;IDA;;Tuvalu;Individual;Oceania;Earth;;Other;;
+UGA;Uganda;Sub-Saharan Africa;Africa;Low income;IDA;HIPC;Uganda;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+UKR;Ukraine;Europe & Central Asia;Europe;Lower middle income;IBRD;;Ukraine;Individual;Europe;Earth;1;Other;Cluster6;Cluster7
+ARE;United Arab Emirates;Middle East & North Africa;Asia;High income;;;United Arab Emirates;Individual;Asia;Earth;4;Other;Cluster4;Cluster4
+GBR;United Kingdom;Europe & Central Asia;Europe;High income;;;United Kingdom of Great Britain and Northern Ireland;Individual;Europe;Earth;2;Other;Cluster9;Cluster1
+USA;United States;North America;North America;High income;;;United States of America;Individual;North America;Earth;3;Other;Cluster7;Cluster6
+UMC;Upper middle income;;;;;;;Grouping;;;;Other;;
+URY;Uruguay;Latin America & Caribbean;South America;High income;IBRD;;Uruguay;Individual;South America;Earth;1;Other;Cluster6;Cluster7
+UZB;Uzbekistan;Europe & Central Asia;Asia;Lower middle income;Blend;;Uzbekistan;Individual;Asia;Earth;;Other;;
+VUT;Vanuatu;East Asia & Pacific;Oceania;Lower middle income;IDA;;Vanuatu;Individual;Oceania;Earth;;Other;;
+VEN;Venezuela;Latin America & Caribbean;South America;;IBRD;;Venezuela (Bolivarian Republic of);Individual;South America;Earth;;Other;;
+VNM;Vietnam;East Asia & Pacific;Asia;Lower middle income;IBRD;;Viet Nam;Individual;Asia;Earth;1;Other;Cluster2;Cluster3
+WLD;World;;;;;;;Grouping;;;;Other;;
+YEM;Yemen;Middle East & North Africa;Asia;Low income;IDA;;Yemen;Individual;Asia;Earth;;Other;;
+ZMB;Zambia;Sub-Saharan Africa;Africa;Lower middle income;IDA;HIPC;Zambia;Individual;Africa;Earth;1;Other;Cluster2;Cluster3
+ZWE;Zimbabwe;Sub-Saharan Africa;Africa;Lower middle income;Blend;;Zimbabwe;Individual;Africa;Earth;1;Other;Cluster2;Cluster3

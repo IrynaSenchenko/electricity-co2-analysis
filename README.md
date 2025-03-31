@@ -40,10 +40,13 @@ It served as a great example of Power BI best practices in layout, interactivity
 
 ### 🖼 Preview
 
-**Electricity Access / Доступ до електроенергії**
-<img src="media/dashboard-overview.png" alt="dashboard-overview" width="500"/>
-**CO₂ emissions by GDP / Викиди CO₂ за ВВП**
-<img src="media/co2-map.png" alt="co2-map" width="500"/>
+**🌍 Electricity Access / Доступ до електроенергії**
+
+<img src="media/dashboard-overview.PNG" alt="dashboard-overview" width="500"/>
+
+**💨 CO₂ emissions by GDP / Викиди CO₂ за ВВП**
+
+<img src="media/co2-map.PNG" alt="co2-map" width="500"/>
 
 ---
 
